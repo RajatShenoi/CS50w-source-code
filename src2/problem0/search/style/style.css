@@ -1,0 +1,41 @@
+.search {
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border: 1px solid #d0cfcf;
+    border-left: 0.1px solid #d0cfcf;
+    border-top: 1px solid #d0cfcf;
+    width: 548px;
+    height: 40px;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+}
+
+.submitbtn {
+    border: 0.1px solid white;
+    border-radius: 4px;
+    color: #5a5959;
+    font-size: 14px;
+    margin: 11px 4px;
+    line-height: 27px;
+    padding: 0 16px;
+    height: 36px;
+    color: #5f6368;
+    background-color: #f2f2f2;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+
+.div1{
+    padding-top: 20px;
+}
+
+.form0{
+    padding-top: 20px;
+}
+
+#adiv2 {
+    margin-left: 45px;
+    margin-top: 30px;
+}
